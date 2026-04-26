@@ -1,0 +1,13 @@
+google-generativeai
+firebase-admin
+vosk
+sounddevice
+python-dotenv
+pyttsx3
+mysql-connector-python
+tkintermapview
+Pillow
+numpy
+scipy
+tqdm
+requests
